@@ -3,7 +3,7 @@ It can moniter 2 servers in one web app.
 <%@ page import="java.sql.*" %>
 <HTML>
 <HEAD>
-<TITLE>comptel-mediation &copy</TITLE>
+<TITLE>mediation</TITLE>
 
 </HEAD>
 <BODY>
